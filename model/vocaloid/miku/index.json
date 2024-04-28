@@ -46,5 +46,5 @@
             }
         ]
     },
-    "physics": "miku.physics.json"
+    "physics": "physics.json"
 }
