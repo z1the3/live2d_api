@@ -1,5 +1,6 @@
 {
     "models": [
+        "volcaloid/miku",
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
         "bilibili-live/22",
@@ -33,6 +34,7 @@
         "KantaiCollection/murakumo"
     ],
     "messages": [
+        "miku dayo ~",
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "来自 Bilibili Live 的 22 哦 ~",
